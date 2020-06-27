@@ -6,7 +6,7 @@ Coursera Getting and Cleaning Data Final Assignment
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Files
-1. **Rscript** contain the scripts needed to perform the analysis
+1. **Rscript** contain the scripts needed to perform the analysis,
     *run_analyis.R* perform these following actions,
      1. Merge the test and training data into one MergedData
      2. Take only the mean and standard deviation for each measurement
